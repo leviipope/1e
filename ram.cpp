@@ -3,5 +3,5 @@
 int main()
 {
     while (true)
-      int *a = new int;  // allocating
+      int *a = new int;
 }
